@@ -1,5 +1,5 @@
 
-<!-- <img width="300" src="./pfp.png"></img> -->
+<img width="500" src="./pfp.gif"></img>
 
 # Hey there 👋
 I’m Reuben George (aka. Reubz)
