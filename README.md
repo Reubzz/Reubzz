@@ -1,4 +1,4 @@
-<img width="600" src="./img.gif"></img>
+<img width="450" src="./img.gif"></img>
 # Hey there 👋
 I’m Reuben George (aka. Reubz)
 
