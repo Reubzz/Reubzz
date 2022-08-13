@@ -1,6 +1,4 @@
-
-<img width="500" src="./pfp.gif"></img>
-
+<img width="600" src="./img.gif"></img>
 # Hey there 👋
 I’m Reuben George (aka. Reubz)
 
