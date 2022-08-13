@@ -1,6 +1,6 @@
 <img width="350" src="./img.svg"></img>
 
-### Hey there 👋
+# Hey there 👋
 I’m Reuben George (aka. Reubz)
 
 - 👀 I’m interested in Coding Discord Bots, Websites, Apps, etc. 
