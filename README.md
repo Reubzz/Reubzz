@@ -1,5 +1,10 @@
-- 👋 Hi, I’m Reuben George (aka. Reubz)
+<img width="350" src="./img.svg"></img>
+
+### Hey there 👋
+I’m Reuben George (aka. Reubz)
+
 - 👀 I’m interested in Coding Discord Bots, Websites, Apps, etc. 
-- 🌱 I’m currently learning Javascript, HTML, PHP, Advanced CSS, C, C++.
+- 🌱 Currently learning Node.js & C++.
+- 🌐 Working currently on [bot.reubz.tk](https://bot.reubz.tk)
 - 📫 How to reach me - [Email](mailto:work.with.reubz@gmail.com), [Instagram](https://www.instagram.com/_.reubz._/), [Twitter](https://twitter.com/official_reubz), [Discord](https://discord.gg/zuqcKZQC2c)
 
