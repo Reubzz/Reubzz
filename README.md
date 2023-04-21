@@ -1,50 +1,75 @@
+<!-- 
+  Document is Divided into 
+    - Title
+    - Intro
+    - Stars
+    - Follow 
+    - Languages
+    - Stats
+    - Top Languages
+    - Contribution Streak
+    - Latest Project
+    - Contact Me
+
+
+-->
+
+<!-- Title -->
 <h1>👋 Hello, I’m Reuben George (aka. Reubz) </h1>
 <br />
 
+<!-- Intro -->
 <p align="left">I am a Student and a Self Taught programmer. I am passionate about creating Interactive Web Apps, Multi-Function Discord Bots. In my free time, you can find me smashing bugs in Vscode or playing games like <a href="https://playvalorant.com/">Valorant</a></p>
 <p>Working currently on ➜ <a href="https://bot.reubz.io">bot.reubz.io</a> & <a href="https://reubz.io">reubz.io</a> </p>
+
 <p align="left"> 
   
+<!--  Stars  -->
   <a href="https://github.com/Reubzz?tab=repositories&sort=stargazers#gh-dark-mode-only">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Reubzz?color=655489&style=for-the-badge&labelColor=c691e9&logo=star#gh-dark-mode-only"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Reubzz?color=655489&style=for-the-badge&labelColor=c691e9&logo=star"/></a>
     
+<!--  Follow Me  -->
   <a href="https://github.com/Reubzz?tab=followers#gh-dark-mode-only">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Reubzz?color=dacc84&labelColor=f9e692&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-dark-mode-only"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Reubzz?color=dacc84&labelColor=f9e692&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
 ---
 
 <br />
-
+<!-- Languages -->
 <h2 align="center">Languages and Tools</h2> 
 <p align="center">
 <img width="280px"  src="https://skillicons.dev/icons?i=html,css,js,cpp,c,java,python,nodejs,mongodb&perline=9"  />
 </p>
 <br />
-
+<!-- Stats -->
 <p align="center">
     &nbsp;
-    <a href="https://github.com/Reubzz#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Reubzz&count_private=true&show_icons=true&theme=github_dark_dimmed#gh-dark-mode-only" alt="Reubzz" /></a>
-    <a href="https://github.com/Reubzz#gh-dark-mode-only" target="_blank"><img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reubzz&langs_count=6&show_icon=true&layout=compact&theme=github_dark_dimmed#gh-dark-mode-only" alt="Reubzz" /></a> 
+    <a href="https://github.com/Reubzz" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Reubzz&count_private=true&show_icons=true&theme=github_dark_dimmed" alt="Reubzz" /></a>
+<!--  Most used languages  -->
+    <a href="https://github.com/Reubzz" target="_blank"><img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reubzz&langs_count=6&show_icon=true&layout=compact&theme=github_dark_dimmed" alt="Reubzz" /></a> 
 
 </p> 
 <br>
 
+<!-- Contribution Streak -->
 <p align="center">
-    <a href="https://github.com/Reubzz#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=Reubzz&theme=panda&sideNums=539BF5&fire=539BF5&ring=539BF5&currStreakLabel=539BF5&sideLabels=539BF5&currStreakNum=539BF5&dates=ADBAC7&background=24292F&border=24292F&stroke=373E47#gh-dark-mode-only" alt="Reubzz"/></a>
+    <a href="https://github.com/Reubzz#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=Reubzz&theme=panda&sideNums=539BF5&fire=539BF5&ring=539BF5&currStreakLabel=539BF5&sideLabels=539BF5&currStreakNum=539BF5&dates=ADBAC7&background=24292F&border=24292F&stroke=373E47" alt="Reubzz"/></a>
 </p>
 <br/>
 <br />
 
 ---
+<!-- Latest Projects -->
 
 <h2 align="center">My Latest Project</h2> 
 <br />
 <p align="center" >
-    <a href="https://github.com/Reubzz/discord-bot-website#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Reubzz&repo=discord-bot-website&theme=github_dark_dimmed&show_owner=true#gh-dark-mode-only"/></a>
+    <a href="https://github.com/Reubzz/discord-bot-website#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Reubzz&repo=discord-bot-website&theme=github_dark_dimmed&show_owner=true"/></a>
 </p>
 <br />
 
+<!-- Contact -->
 <h2 align="center">Connect With Me</h2> 
 <p align="center">
     <a href="https://twitter.com/Official_Reubz" target="_blank"><img align="center" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Official_Reubz" /></a>
