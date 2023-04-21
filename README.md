@@ -54,7 +54,7 @@
 
 <!-- Contribution Streak -->
 <p align="center">
-    <a href="https://github.com/Reubzz#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=Reubzz&theme=panda&sideNums=539BF5&fire=539BF5&ring=539BF5&currStreakLabel=539BF5&sideLabels=539BF5&currStreakNum=539BF5&dates=ADBAC7&background=24292F&border=24292F&stroke=373E47" alt="Reubzz"/></a>
+    <a href="https://github.com/Reubzz" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=Reubzz&theme=panda&sideNums=539BF5&fire=539BF5&ring=539BF5&currStreakLabel=539BF5&sideLabels=539BF5&currStreakNum=539BF5&dates=ADBAC7&background=24292F&border=24292F&stroke=373E47" alt="Reubzz"/></a>
 </p>
 <br/>
 <br />
@@ -65,7 +65,7 @@
 <h2 align="center">My Latest Project</h2> 
 <br />
 <p align="center" >
-    <a href="https://github.com/Reubzz/discord-bot-website#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Reubzz&repo=discord-bot-website&theme=github_dark_dimmed&show_owner=true"/></a>
+    <a href="https://github.com/Reubzz/discord-bot-website" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Reubzz&repo=discord-bot-website&theme=github_dark_dimmed&show_owner=true"/></a>
 </p>
 <br />
 
