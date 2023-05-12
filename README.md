@@ -65,7 +65,7 @@
 <h2 align="center">My Latest Project</h2> 
 <br />
 <p align="center" >
-    <a href="https://github.com/Reubzz/discord-bot-website" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Reubzz&repo=discord-bot-website&theme=github_dark_dimmed&show_owner=true"/></a>
+    <a href="https://github.com/Reubzz/discord-bot-website" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Reubzz&repo=personal-website&theme=github_dark_dimmed&show_owner=true"/></a>
 </p>
 <br />
 
