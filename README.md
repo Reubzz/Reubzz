@@ -5,6 +5,7 @@
     - Stars
     - Follow 
     - Languages
+    - Tech Stack
     - Stats
     - Top Languages
     - Contribution Streak
@@ -20,7 +21,7 @@
 
 <!-- Intro -->
 <p align="left">I am a Student and a Self Taught programmer. I am passionate about creating Interactive Web Apps, Multi-Function Discord Bots. In my free time, you can find me smashing bugs in Vscode or playing games like <a href="https://playvalorant.com/">Valorant</a></p>
-<p>Working currently on ➜ <a href="https://bot.reubz.io">bot.reubz.io</a> & <a href="https://reubz.io">reubz.io</a> </p>
+<p>Working currently on ➜ <a href="https://project.reubz.io">Rooobz Cars (project.reubz.io)</a> & <a href="https://reubz.io">Portfolio Website (reubz.io)</a> </p>
 
 <p align="left"> 
   
@@ -39,7 +40,13 @@
 <!-- Languages -->
 <h2 align="center">Languages and Tools</h2> 
 <p align="center">
-<img width="280px"  src="https://skillicons.dev/icons?i=html,css,js,cpp,c,java,python,nodejs,mongodb&perline=9"  />
+<img width="280px"  src="https://skillicons.dev/icons?i=html,css,js,cpp,c,java,python,sass&perline=4"  />
+</p>
+<br />
+<!-- Tech Stack -->
+<h2 align="center">Tech Stack</h2> 
+<p align="center">
+<img width="280px"  src="https://skillicons.dev/icons?i=nodejs,mongodb,express,jquery,react,aws&perline=3"  />
 </p>
 <br />
 <!-- Stats -->
