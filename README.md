@@ -50,7 +50,7 @@
 </p>
 <br />
 <!-- Stats -->
-<p align="center">
+<p align="center" style="margin: 20px">
     &nbsp;
     <a href="https://github.com/Reubzz" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Reubzz&count_private=true&show_icons=true&theme=github_dark_dimmed" alt="Reubzz" /></a>
 <!--  Most used languages  -->
