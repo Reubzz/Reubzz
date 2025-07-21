@@ -46,7 +46,7 @@
 <!-- Tech Stack -->
 <h2 align="center">Tech Stack</h2> 
 <p align="center">
-<img width="280px"  src="https://skillicons.dev/icons?i=nodejs,mongodb,express,jquery,react,aws&perline=3"  />
+<img width="280px"  src="https://skillicons.dev/icons?i=nodejs,mongodb,express,jquery,react,mysql,nextjs,tailwind,spring,bootstrap,azure,aws&perline=6"  />
 </p>
 <br />
 <!-- Stats -->
